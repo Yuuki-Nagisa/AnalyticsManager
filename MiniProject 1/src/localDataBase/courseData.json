@@ -1,0 +1,58 @@
+{
+    "EnrollCourseEventJavaStack":[
+        "Full-Stack Java Development with React.js",
+        "This course teaches you how to build full-stack web applications using Java (Spring Boot) for the backend and React.js for the frontend. You'll learn to design RESTful APIs, connect them with frontend components, manage state, and deploy full-stack apps.",
+        [ "Java Core & OOP",
+        "Spring Boot & REST API development",
+        "React.js fundamentals",
+        "Connecting frontend with backend (API integration)",
+        "Database (MySQL/PostgreSQL)",
+        "JWT authentication & security",
+        "Maven, Postman, Swagger",
+        "Deployment on cloud platforms"
+        ],"BuyCourseEventJavaStack"
+    ],
+    "EnrollCourseEventDataScience":[
+        "Complete Data Science Bootcamp: From Basics to Advanced",
+        "This course covers the entire data science pipeline, including data collection, cleaning, analysis, visualization, and machine learning. You'll work on real-world datasets and use Python libraries widely used in the industry.",
+        [
+    "Python for Data Science",
+    "Pandas, NumPy, and Matplotlib",
+    "Exploratory Data Analysis (EDA)",
+    "Machine Learning algorithms (scikit-learn)",
+    "Data visualization (Seaborn, Plotly)",
+    "Model evaluation and deployment",
+    "SQL for data queries",
+    "Jupyter Notebook, Git & GitHub"
+],"BuyCourseEventDataScience"
+    ],
+    "EnrollCourseEventDSAInJava":[
+        "Mastering Data Structures and Algorithms in Java",
+        "This course provides a deep understanding of data structures and algorithms using Java. Ideal for coding interviews, it covers both conceptual clarity and implementation with hands-on coding challenges.",
+         [
+    "Arrays, Strings, Linked Lists",
+    "Stacks, Queues, Trees, Graphs",
+    "Sorting and Searching Algorithms",
+    "Recursion and Backtracking",
+    "Dynamic Programming",
+    "Greedy Algorithms",
+    "Time & Space Complexity analysis",
+    "Competitive programming techniques"
+],"BuyCourseEventDSAInJava"
+
+    ],
+    "EnrollCourseEventMERNStack":[
+        "Full-Stack Web Development with MERN Stack",
+        "Learn to build complete web applications using the MERN stack: MongoDB, Express.js, React.js, and Node.js. This course includes frontend, backend, and database integration with real-world projects and deployment practices.",
+        [
+            "HTML, CSS, JavaScript (ES6+)",
+    "React.js & React Router",
+    "Node.js & Express.js",
+    "MongoDB & Mongoose",
+    "REST API development",
+    "JWT Authentication & Authorization",
+    "State Management (Redux/Zustand)",
+    "Hosting (Render, Vercel, Netlify)"
+        ],"BuyCourseEventMERNStack"
+    ]
+}
